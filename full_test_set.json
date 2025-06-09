@@ -1,0 +1,142 @@
+[
+    {
+        "frame_path": "first_frames/butterfly_processed.jpg",
+        "mask_path": "first_frames/butterfly_mask.png",
+        "prompt": "video of a butterfly"        
+    },
+    {
+        "frame_path": "first_frames/basketball_basket_processed.jpg",
+        "mask_path": "first_frames/basketball_basket_mask.png",
+        "prompt": "video of a basketball"
+    },
+    {
+        "frame_path": "first_frames/boat_river_processed.jpg",
+        "mask_path": "first_frames/boat_river_mask.png",
+        "prompt": "video of a boat"
+    },
+    {
+        "frame_path": "first_frames/table_laptop_processed.jpg",
+        "mask_path": "first_frames/table_laptop_mask.png",
+        "prompt": "video of a laptop"
+    },
+    {
+        "frame_path": "first_frames/river2_processed.jpg",
+        "mask_path": "first_frames/river2_mask.png",
+        "prompt": "video of a river"
+    },
+    {
+        "frame_path": "first_frames/windmill2_processed.jpg",
+        "mask_path": "first_frames/windmill2_mask.png",
+        "prompt": "video of a windmill"
+    },
+    {
+        "frame_path": "first_frames/train_processed.jpg",
+        "mask_path": "first_frames/train_mask.png",
+        "prompt": "video of a train"
+    },
+    {
+        "frame_path": "first_frames/top_processed.jpg",
+        "mask_path": "first_frames/top_mask.png",
+        "prompt": "video of a top"
+    },
+    {
+        "frame_path": "first_frames/lion_roar_processed.jpg",
+        "mask_path": "first_frames/lion_roar_mask.png",
+        "prompt": "video of a lion"
+    },
+    {
+        "frame_path": "first_frames/ocean_wave_processed.jpg",
+        "mask_path": "first_frames/ocean_wave_mask2.png",
+        "prompt": "video of a wave"
+    },
+    {
+        "frame_path": "first_frames/drawer_test_processed.jpg",
+        "mask_path": "first_frames/drawer_test_mask.png",
+        "prompt": "video of a drawer"
+    },
+    {
+        "frame_path": "first_frames/drawer_test2_processed.jpg",
+        "mask_path": "first_frames/drawer_test2_mask.png",
+        "prompt": "video of a drawer"
+    },
+    {
+        "frame_path": "first_frames/door4_processed.jpg",
+        "mask_path": "first_frames/door4_mask.png",
+        "prompt": "video of a door"
+    },
+    {
+        "frame_path": "first_frames/book2_processed.jpg",
+        "mask_path": "first_frames/book2_mask.png",
+        "prompt": "video of a book"
+    },
+    {
+        "frame_path": "first_frames/cat_processed.jpg",
+        "mask_path": "first_frames/cat_mask.png",
+        "prompt": "video of a cat"
+    },
+    {
+        "frame_path": "first_frames/monkey_processed.jpg",
+        "mask_path": "first_frames/monkey_mask.png",
+        "prompt": "video of a monkey"
+    },
+    {
+        "frame_path": "first_frames/dolphin_processed.jpg",
+        "mask_path": "first_frames/dolphin_mask.png",
+        "prompt": "video of a dolphin"
+    },
+    {
+        "frame_path": "first_frames/chair2_processed.jpg",
+        "mask_path": "first_frames/chair2_mask.png",
+        "prompt": "video of a chair"
+    },
+    {
+        "frame_path": "first_frames/chair_processed.jpg",
+        "mask_path": "first_frames/chair_mask.png",
+        "prompt": "video of a chair"
+    },
+    {
+        "frame_path": "first_frames/tank_processed.jpg",
+        "mask_path": "first_frames/tank_mask.png",
+        "prompt": "video of a tank"
+    },
+    {
+        "frame_path": "first_frames/steering_wheel_processed.jpg",
+        "mask_path": "first_frames/steering_wheel_mask.png",
+        "prompt": "video of a steering wheel"
+    },
+    {
+        "frame_path": "first_frames/soccer_grass_processed.jpg",
+        "mask_path": "first_frames/soccer_grass_mask.png",
+        "prompt": "video of a soccer ball"
+    },
+    {
+        "frame_path": "first_frames/potted_plant_processed.jpg",
+        "mask_path": "first_frames/potted_plant_mask.png",
+        "prompt": "video of a potted plant"
+    },
+    {
+        "frame_path": "first_frames/cup2_processed.jpg",
+        "mask_path": "first_frames/cup2_mask.png",
+        "prompt": "video of a coffee cup"
+    },
+    {
+        "frame_path": "first_frames/cup3_processed.jpg",
+        "mask_path": "first_frames/cup3_mask.png",
+        "prompt": "video of a coffee cup"
+    },
+    {
+        "frame_path": "first_frames/frame_0001_processed.jpg",
+        "mask_path": "first_frames/frame_0001_mask.png",
+        "prompt": "video of a car"
+    },
+    {
+        "frame_path": "first_frames/flag2_processed.jpg",
+        "mask_path": "first_frames/flag2_mask.png",
+        "prompt": "video of a flag"
+    },
+    {
+        "frame_path": "first_frames/clock_hands_processed.jpg",
+        "mask_path": "first_frames/clock_hands_mask.png",
+        "prompt": "video of a clock"
+    }
+]

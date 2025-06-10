@@ -24,7 +24,7 @@ python motion_discovery.py
 ```
 ## References
 
-We currently use Motion-I2V as our backbone for motion generation. 
+We use Motion-I2V as our backbone for motion generation. 
 
 ```bib
 @article{shi2024motion,

@@ -1,0 +1,7 @@
+[
+    {
+        "frame_path": "first_frames/cat_processed.jpg",
+        "mask_path": "first_frames/cat_mask.png",
+        "prompt": "video of a cat"
+    }
+]
